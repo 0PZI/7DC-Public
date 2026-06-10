@@ -1,10 +1,10 @@
 # 7DC — 7TV Discord Bridge (User-Installable App)
 
-7DC started as a simple idea: bringing 7TV emotes to every corner of Discord.
+7DC started as a simple idea: bringing the 7TV Twitch emote experience into Discord.
 
-As someone who uses 7TV regularly, I wanted a simple way to access my emotes everywhere—not just in servers where a bot happens to be installed. That's why 7DC is built as a **User-Installable Application**, allowing your emotes to stay with your Discord profile and work in DMs, Group Chats, and servers alike.
+7TV emotes are heavily shaped by Twitch culture, but Discord doesn't really support them in a native or consistent way—especially wide emotes (1:2 or 1:3). 7DC bridges that gap by letting you use your own 7TV emote set directly inside Discord with proper formatting and scaling.
 
-Instead of relying on server administrators to add a bot, you install 7DC once and use your own 7TV emote collection wherever Discord commands are available.
+7DC is a **User-Installable Application**, meaning it is tied to your Discord account and works across DMs, Group Chats, and Servers without requiring a bot in each one.
 
 ## 🚧 Early Access
 
