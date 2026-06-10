@@ -1,6 +1,10 @@
 # 7DC — 7TV Discord Bridge (User-Installable App)
 
-7DC is a modern Discord integration that brings your favorite 7TV emotes to every corner of Discord. Unlike traditional bots, this is a **User-Installable Application**, meaning it stays with your profile and works in DMs, Group Chats, and any server—even if the bot isn't invited there.
+7DC started as a simple idea: bringing 7TV emotes to every corner of Discord.
+
+As someone who uses 7TV regularly, I wanted a simple way to access my emotes everywhere—not just in servers where a bot happens to be installed. That's why 7DC is built as a **User-Installable Application**, allowing your emotes to stay with your Discord profile and work in DMs, Group Chats, and servers alike.
+
+Instead of relying on server administrators to add a bot, you install 7DC once and use your own 7TV emote collection wherever Discord commands are available.
 
 ## 🚧 Early Access
 
@@ -19,8 +23,8 @@ While the app is fully functional, you may occasionally encounter bugs, unexpect
 
 ## 🛠 Commands
 
-* `/connect [7tv_id]` — Link your Discord account to your 7TV profile (Use your 7TV Object ID from your profile URL).
-* `/emote [name]` — Search and send an emote from your active set (delivered in 2x scale).
+* `/connect [7tv_id]` — Link your Discord account to your 7TV profile (Use your 7TV Object ID from your profile URL). Your Discord account must already be connected to 7TV.
+* `/emote [name]` — Search and send an emote from your active set (delivered in 2x scale with autocomplete).
 
 ## ⚡ Performance & Caching
 
