@@ -16,7 +16,7 @@ To request access, follow me on [Twitter (@sl0pzi)](https://twitter.com/sl0pzi) 
 
 This phase helps gather real-world usage data, test stability under load, and better predict future infrastructure and server costs as the user base grows. It also allows features and workflows to be refined based on community feedback, helping make the application as stable, reliable, and user-friendly as possible before a wider release.
 
-While the app is fully functional, you may occasionally encounter bugs, unexpected behavior, or temporary limitations. Feedback from testers is greatly appreciated and helps shape the future of 7DC.
+While the app is fully functional, you may occasionally encounter bugs, unexpected behavior, or temporary limitations. [Feedback](https://github.com/0PZI/7DC-Public/issues) from testers is greatly appreciated and helps shape the future of 7DC.
 
 ## 🚀 Features
 
