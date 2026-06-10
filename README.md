@@ -31,7 +31,7 @@ While the app is fully functional, you may occasionally encounter bugs, unexpect
 * `/emote [name]` — Search and send an emote from your active set (delivered in 2x scale with autocomplete).
 
 # 🧭 Setup — Finding Your 7TV ID
-![7TV ID Location](./assets/7tv_id.png)
+![7TV ID Location](./assets/7TV_ID.png)
 
 ## ⚡ Performance & Caching
 
