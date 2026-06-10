@@ -30,6 +30,9 @@ While the app is fully functional, you may occasionally encounter bugs, unexpect
 * `/connect [7tv_id]` — Link your Discord account to your 7TV profile (Use your 7TV Object ID from your profile URL). Your Discord account must already be connected to 7TV.
 * `/emote [name]` — Search and send an emote from your active set (delivered in 2x scale with autocomplete).
 
+# 🧭 Setup — Finding Your 7TV ID
+![7TV ID Location](./assets/7tv_id.png)
+
 ## ⚡ Performance & Caching
 
 The app is optimized for speed:
@@ -47,13 +50,13 @@ The app is optimized for speed:
 
 ## ⚙️ How to Use
 
-Simply install the app to your Discord profile via the application link. Once authorized, you can use the commands above in any text channel you have access to.
+Simply install the app to your Discord profile via the [application link](https://discord.com/oauth2/authorize?client_id=1513755393682313467). Once authorized, you can use the commands above in any text channel you have access to.
 
 ---
 
 ## 🔗 Links
 
-[7TV](https://7tv.app) • [Discord Terms & Guidelines](https://discord.com/guidelines)
+[7TV](https://7tv.app) • [Discord Terms & Guidelines](https://discord.com/guidelines) • [Install App](https://discord.com/oauth2/authorize?client_id=1513755393682313467)
 
 ---
 
