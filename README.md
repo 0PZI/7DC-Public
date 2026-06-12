@@ -53,11 +53,11 @@ The app is optimized for speed:
 
 Simply install the app to your Discord profile via the [application link](https://discord.com/oauth2/authorize?client_id=1513755393682313467). Once authorized, you can use the commands above in any text channel you have access to.
 
-
 ## ⛔ Limitations 
 
 * **Emote previews are not possible:** Discord (e.g.) renders emoji previews client-sided, while slash commands only support plain text choices and cannot display emotes, images, or other content.
 
+---
 
 ## 🔗 Links
 
