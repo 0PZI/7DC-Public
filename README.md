@@ -61,7 +61,7 @@ Simply install the app to your Discord profile via the [application link](https:
 
 ## 🔗 Links
 
-[7TV](https://7tv.app) • [Discord Terms & Guidelines](https://discord.com/guidelines) • [Install App](https://discord.com/oauth2/authorize?client_id=1513755393682313467)
+[7TV](https://7tv.app) • [Discord Terms & Guidelines](https://discord.com/guidelines) • [Install App](https://discord.com/oauth2/authorize?client_id=1513755393682313467) • [7DC News Server](https://discord.gg/Jqa9tRePZx)
 
 ---
 
