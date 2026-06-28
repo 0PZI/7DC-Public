@@ -36,7 +36,7 @@ While the app is fully functional, you may occasionally encounter bugs, unexpect
 
 The app is optimized for speed:
 
-* **Instant Search:** Your 7TV emote list is cached in-memory for 10 minutes. This ensures that when you type a name, the suggestions appear instantly without waiting for an API response.
+* **Instant Search:** Your 7TV emote list is cached in-memory for 30 minutes. This ensures that when you type a name, the suggestions appear instantly without waiting for an API response.
 * **Efficient API Usage:** Caching prevents unnecessary requests to 7TV's servers, keeping the integration smooth and stable.
 
 # <img src="https://cdn.7tv.app/emote/01JQHGR6R8705W0TX7MC5CGAE7/4x.avif" width="48" height="49" alt="emoji"> Data & Privacy
