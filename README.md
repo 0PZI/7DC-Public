@@ -32,7 +32,26 @@ While the app is fully functional, you may occasionally encounter bugs, unexpect
 * `/emote [name]` | `/e [name]` — Search and send an Emote from your active Emote-set
 * `/size [small/medium/large]` — Change your default Emote preview size `default=small`
 
+<details>
+<summary>
+Emote Reactions
+</summary>
+  
+# Step 1
+
+<img src="https://github.com/user-attachments/assets/631d4ae3-0a44-404d-a566-f21e75f2779b" width="450" height="300" style="object-fit: cover;" />
+
+# Step 2
+
+<img src="https://github.com/user-attachments/assets/5bc88799-4a66-40d0-adb6-3527f350b29b" width="300" height="200" style="object-fit: cover;" />
+
+# Result
+
+<img src="https://github.com/user-attachments/assets/24a6209b-c18b-42a6-891a-f01a6db63909" width="300" height="150" style="object-fit: cover;" />
+</details>
+
 # <img src="https://cdn.7tv.app/emote/01FB4NYBG0000FFZEHGR5A0DYS/4x.avif" width="48" height="49" alt="emoji">  Performance & Caching
+
 
 The app is optimized for speed:
 
