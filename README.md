@@ -7,17 +7,16 @@ This started as a simple idea: bringing the 7TV Twitch emote experience - escpec
 
 7DC is currently in **Early Access** 
 
-Access is currently limited to gather usage data, test server stability under load and predict future infrastructure. It also allows features and workflows to be refined based on community feedback, helping make the application as stable, reliable, and user-friendly as possible before a wider release.
-
-To request access, add me on Discord | @0pzi.
+This phase helps gather usage data, test server stability under load and predict future infrastructure. It also allows features and workflows to be refined based on community feedback, helping make the application as stable, reliable, and user-friendly as possible before a bigger release.
 
 While the app is fully functional, you may occasionally encounter bugs, unexpected behavior, or temporary limitations. 
-[Feedback](https://github.com/0PZI/7DC-Public/issues) from testers is greatly appreciated and helps shape the future of 7DC.
+[Feedback](https://github.com/0PZI/7DC-Public/issues) is greatly appreciated and helps shape the future of 7DC.
 
 # <img src="https://cdn.7tv.app/emote/01FPCZ99CR000EJT2EVEY3K7J8/4x.avif" width="48" height="49" alt="emoji">  Features
 
 * **Use Everywhere:** Thanks to Discord's "User Install" feature, your emotes follow you globally.
 * **7TV Sync:** Directly pulls from your current active 7TV emote set.
+* **Emote Reactions:** React to a message using Emotes (*Guide in Commands Section*)
 * **Fast Autocomplete:** Search for emotes instantly via the Discord command UI.
 * **Smart Caching:** Uses an in-memory cache for emote sets to ensure lightning-fast responses and minimal API load.
 
@@ -52,7 +51,6 @@ Emote Reactions
 
 # <img src="https://cdn.7tv.app/emote/01FB4NYBG0000FFZEHGR5A0DYS/4x.avif" width="48" height="49" alt="emoji">  Performance & Caching
 
-
 The app is optimized for speed:
 
 * **Instant Search:** Your 7TV emote list is cached in-memory for 30 minutes. This ensures that when you type a name, the suggestions appear instantly without waiting for an API response.
@@ -68,7 +66,8 @@ The app is optimized for speed:
 
 # <img src="https://cdn.7tv.app/emote/01G6ZS6QDR0003EG3F712GQ2C8/4x.avif" width="48" height="49" alt="emoji"> Limitations 
 
-* **Emote previews are not possible:** Discord (e.g.) renders emoji previews client-sided, while slash commands only support plain text choices and cannot display emotes, images, or other content.
+* **Emote previews are not possible** 
+* **Emote Reactions do NOT feature Autocompletion**
 
 ---
 
