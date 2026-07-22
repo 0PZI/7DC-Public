@@ -1,7 +1,7 @@
 # 7DC — 7TV Discord Bridge (User-Installable App)
 
 This started as a simple idea: bringing the 7TV Twitch emote experience - especially wide-Emotes - to Discord.
-7DC is a **User-Installable Application**, meaning it is tied to your Discord account and works across DMs, Group Chats, and Servers without requiring a bot in each one.
+7DC is a **User-Installable Application**, meaning it is tied to your Discord account and works across DMs, Group Chats, and Servers without requiring external installations or a bot in each channel.
 
 <p align="center">
   <a href="https://discord.com/oauth2/authorize?client_id=1513755393682313467">
